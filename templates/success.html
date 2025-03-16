@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Helmet Detection - Success</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+</head>
+<body>
+    <header>
+        <h1>Helmet Detection Portal</h1>
+    </header>
+    <nav>
+        <a href="{{ url_for('image_detection') }}">Image Detection</a>
+        <a href="{{ url_for('video_detection') }}">Video Detection</a>
+    </nav>
+    <div class="container">
+        <h2>Welcome to Helmet Detection</h2>
+        <p>Select an option from the navigation bar above to detect helmets in images or videos.</p>
+    </div>
+    <footer>
+        <p>&copy; 2024 Helmet Detection System</p>
+    </footer>
+</body>
+</html>
