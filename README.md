@@ -4,11 +4,11 @@
 Smart Helmet Detection is an AI-powered system that identifies whether a person is wearing a helmet using **machine learning** and **computer vision** techniques. This project aims to enhance road safety by providing automated helmet detection capabilities.
 
 ## Features
-- 🔍 **Helmet Detection** using deep learning models
-- 📷 Supports real-time camera feed or image input
-- 📊 Generates alerts for non-compliance cases
-- ⚙️ Compatible with Flask for web-based applications
-- 📌 Easily extendable and customizable
+- **Helmet Detection** using deep learning models
+- Supports real-time camera feed or image input
+- Generates alerts for non-compliance cases
+- Compatible with Flask for web-based applications
+- Easily extendable and customizable
 
 ## Technologies Used
 - **Python**
