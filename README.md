@@ -34,8 +34,8 @@ Ensure you have the following installed:
 
 ## Project Structure
 Smart_Helmet_Detection/
-│── static/       # CSS, images, JavaScript
-│── templates/    # HTML files
-│── app.py        # Flask server
-│── requirements.txt  # Dependencies list
-│── README.md     # Project documentation
+    │── static/       # CSS, images, JavaScript
+    │── templates/    # HTML files
+    │── app.py        # Flask server
+    │── requirements.txt  # Dependencies list
+    │── README.md     # Project documentation
