@@ -33,9 +33,11 @@ Ensure you have the following installed:
     python app.py
 
 ## Project Structure
+```
 Smart_Helmet_Detection/
+```
     ```
-    │── static/       # CSS, images, JavaScript
+    │── static/       # CSS, images, JavaScript '\n'
     ```
     ```
     │── templates/    # HTML files
