@@ -25,6 +25,7 @@ Ensure you have the following installed:
 
 ### Steps
 1. Clone the repository:
+    ```
    git clone https://github.com/samififteen/Smart_Helmet_Detection.git
    cd Smart_Helmet_Detection
 2. Install dependencies:
