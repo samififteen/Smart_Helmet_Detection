@@ -13,7 +13,7 @@ Smart Helmet Detection is an AI-powered system that identifies whether a person 
 ## Technologies Used
 - **Python**
 - **OpenCV**
-- **TensorFlow/Keras** (or another ML framework)
+- **PyTorch**
 - **Flask** (for web integration)
 - **Bootstrap** (for UI design)
 
