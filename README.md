@@ -36,9 +36,17 @@ Ensure you have the following installed:
 Smart_Helmet_Detection/
     ```
     │── static/       # CSS, images, JavaScript
+    ```
+    ```
     │── templates/    # HTML files
+    ```
+    ```
     │── app.py        # Flask server
+    ```
+    ```
     │── requirements.txt  # Dependencies list
+    ```
+    ```
     │── README.md     # Project documentation
     ```
 ## Download the trained model here
