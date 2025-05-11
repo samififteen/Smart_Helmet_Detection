@@ -34,12 +34,12 @@ Ensure you have the following installed:
 
 ## Project Structure
 Smart_Helmet_Detection/
-    ```bash
+    ```
     │── static/       # CSS, images, JavaScript
     │── templates/    # HTML files
     │── app.py        # Flask server
     │── requirements.txt  # Dependencies list
     │── README.md     # Project documentation
-
+    ```
 ## Download the trained model here
     https://www.mediafire.com/file/s0jvzprczv598kl/best.pt/file
